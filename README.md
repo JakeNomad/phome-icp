@@ -12,3 +12,5 @@ View Sent Messages: sentMessages(senderPhone: Phone): ?Message
 Data Types:
 Entry: { desc: Text; phone: Phone }
 Message: { receiver: Text; message: Text }
+
+2025 Patika.dev Internship
